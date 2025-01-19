@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in VBScript functions. The function f is designed to compare two numeric values. However, an incorrect call passes a numeric value and a string, causing a type mismatch error. The solution shows how to correctly handle argument types and avoid this error.
